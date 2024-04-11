@@ -1,0 +1,11 @@
+{
+  "data_dir": "/tmp/data",
+  "server": false,
+  "enable_script_checks": true,
+  "acl": {
+    "enabled": false,
+    "default_policy": "allow"
+  },
+  "log_level": "INFO",
+  "domain": "consul"
+}
